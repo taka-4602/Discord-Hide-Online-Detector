@@ -1,4 +1,4 @@
-# Discord-Hide-Online-Detector
+# Discord-Hided-Online-Detector
 Discordでオンライン状態を隠しているユーザーが発言した時にそれを検出してメッセージを送信します  
 また、ユーザーがSpotifyで音楽を再生しているのも検出することができます
 ## 使い方  
