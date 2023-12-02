@@ -1,0 +1,2 @@
+# Discord-Offline-Detector
+Discordでオフラインのユーザーが発言した時にそれを検出してメッセージ送信します
