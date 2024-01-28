@@ -1,10 +1,6 @@
 # Discord-Hided-Online-Detector
 Discordでオンライン状態を隠しているユーザーが発言した時にそれを検出してメッセージを送信します  
 また、ユーザーがSpotifyで音楽を再生しているのも検出することができます
-## デプロイしました！
-すでに僕がホスティングしているものを使えば即使うことができます  
-メッセージ削除機能もつけておきました  
-招待 -> https://discord.com/api/oauth2/authorize?client_id=1180776194099138582&permissions=8&scope=bot  
 #### コマンドの説明
 - detect_on_off  
   使ったチャンネルを検出リストに登録します  
